@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Rick',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: true,
 	timeZone: 'Asia/Calcutta',
