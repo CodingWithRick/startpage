@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Rick',
 	imageBackground: true,
-	openInNewTab: false,
+	openInNewTab: true,
 	twelveHourFormat: true,
 	timeZone: 'Asia/Calcutta',
 
